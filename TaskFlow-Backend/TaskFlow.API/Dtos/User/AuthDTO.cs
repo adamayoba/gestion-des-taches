@@ -1,0 +1,24 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace TaskFlow.API.Dtos.User
+{
+    public class RegisterDTO
+    {
+        public string Username { get; set; } = string.Empty;
+        public string Password { get; set; } = string.Empty;
+        public string Role { get; set; } = "User"; // Admin / User
+    }
+    public class LoginDTO
+    {
+        public string Username { get; set; } = string.Empty;
+        public string Password { get; set; } = string.Empty;
+    }
+    public class UserDTO
+    {
+        public int Id { get; set; }
+        public string Username { get; set; } = string.Empty;
+    }
+}

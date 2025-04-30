@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TaskFlow-Backend",
+    "\\TaskFlow-Backend\\TaskFlow.API",
+    "\\TaskFlow-Backend\\TaskFlow.API\\Dtos",
+    "\\TaskFlow-Backend\\TaskFlow.API\\Dtos\\Task"
+  ],
+  "SelectedNode": "\\TaskFlow-Backend\\TaskFlow.API\\Dtos\\Task\\TaskDTO.cs",
+  "PreviewInSolutionExplorer": false
+}
