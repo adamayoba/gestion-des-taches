@@ -168,3 +168,4 @@ D:\Actualisation\C#\TaskFlow\TaskFlow-Backend\TaskFlow.API\obj\Debug\net8.0\refi
 D:\Actualisation\C#\TaskFlow\TaskFlow-Backend\TaskFlow.API\obj\Debug\net8.0\TaskFlow.API.pdb
 D:\Actualisation\C#\TaskFlow\TaskFlow-Backend\TaskFlow.API\obj\Debug\net8.0\TaskFlow.API.genruntimeconfig.cache
 D:\Actualisation\C#\TaskFlow\TaskFlow-Backend\TaskFlow.API\obj\Debug\net8.0\ref\TaskFlow.API.dll
+D:\Actualisation\C#\TaskFlow\TaskFlow-Backend\TaskFlow.API\obj\Debug\net8.0\TaskFlow.API.sourcelink.json

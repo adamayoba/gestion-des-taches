@@ -43,6 +43,7 @@ namespace TaskFlow.API.Controllers
         }
 
         [HttpPost("login")]
+        [Authorize]
         public async Task<ActionResult<string>> Login(LoginDTO dto)
         {
             var user = await _repo.Login(dto.Username, dto.Password);
